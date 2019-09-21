@@ -3,8 +3,8 @@
 并保存到本地文件中	
 
 ### Copyright
-Qian Jipeng(C) 2019
-Thanks to Google pytesser-ocr
+Qian Jipeng(C) 2019</br>
+Thanks to Google pytesser-ocr</br>
 Bugs and suggestion please mail to mokeeqian@qq.com
 
 
