@@ -45,7 +45,7 @@ Ubuntu + Chrome + Pycharm + vim
 + config.conf文件是用户配置文件，需要先修改用户配置信息(也可以批量获取信息，批量登录)
 + 执行python3 main.py
 
-2. Windows
+2. Windows  
 Windows配置较为复杂，具体如下：
 + pip 安装相关python依赖，建议使用豆瓣镜像源加速
 	```
