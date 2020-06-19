@@ -8,7 +8,7 @@
 ### Copyright
 Qian Jipeng(C) 2019</br>
 Thanks to Google pytesser-ocr</br>
-Bugs and suggestion please mail to mokeeqian@qq.com
+Bugs and suggestion please mail to mokeeqian@gmail.com
 
 
 ### 开发环境
