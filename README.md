@@ -6,7 +6,7 @@
 并保存到本地文件中	
 
 ### Copyright
-Qian Jipeng(C) 2019</br>
+mokeeqian(C) 2019</br>
 Thanks to Google pytesser-ocr</br>
 Bugs and suggestion please mail to mokeeqian@gmail.com
 
